@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img align="right" height="150" src="https://github.com/rudrabarad/Gifs" />
+
+
 - 🔭 I’m currently working on **Frontend Developer**
 
 - 🌱 I’m currently learning **.NET and Java Spring**
