@@ -6,7 +6,7 @@
 <img align="right" height="150" src="[https://media.giphy.com/media/3o7TKsQ8kTJCB4sB8k/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAzN3NwMzMzbXh2b2xtaTFsZmV4OWpmZG90emQwMWljcWR1aXcyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" />
 
 
-- 🔭 I’m currently working on **Frontend Developer**
+- 🔭 I’m currently working on **Backend Developer**
 
 - 🌱 I’m currently learning **.NET and Java Spring**
 
