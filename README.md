@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincenttuannn&label=Profile%20views&color=0e75b6&style=flat" alt="vincenttuannn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <img align="right" height="150" src="[https://media.giphy.com/media/3o7TKsQ8kTJCB4sB8k/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAzN3NwMzMzbXh2b2xtaTFsZmV4OWpmZG90emQwMWljcWR1aXcyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" />
 
 
