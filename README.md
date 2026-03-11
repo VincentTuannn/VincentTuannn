@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **Backend Developer**
 
-- 🤝 I’m looking for help with **Backend Developer**
+- 🤝 I’m looking for help with **DevOps Developer**
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about **Unity and .NET**
 
 - 📫 How to reach me **vincenttuan1098@gmail.com**
 
